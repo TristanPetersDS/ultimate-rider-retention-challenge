@@ -59,3 +59,17 @@ Based on the model's findings, the following recommendations are proposed to imp
 - **Proactive Rider Reputation Management:** Implement a system to notify and assist riders whose average rating from drivers begins to drop, as this is a key indicator of churn risk.
 - **Replicate Success from King's Landing:** Analyze the factors contributing to the significantly higher retention rate in King's Landing and apply those learnings to other cities.
 - **Optimize Surge Pricing Strategy:** For users identified as at-risk, offer targeted incentives like "surge-proof" passes to mitigate the negative impact of frequent surge pricing.
+
+---
+
+## Data
+
+The two data files (`logins.json` and `ultimate_data_challenge.json`) and the
+challenge brief were supplied for this take-home exercise and are not
+redistributed here. The notebook's saved outputs show every result. To re-run
+it, place both files in `data/`.
+
+## License
+
+The code is released under the [MIT License](LICENSE). It does not cover the
+challenge brief or the data, which are not included.
